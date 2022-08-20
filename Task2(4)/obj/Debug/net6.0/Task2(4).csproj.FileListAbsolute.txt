@@ -1,0 +1,15 @@
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\Task2(4).csproj.AssemblyReference.cache
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\Task2(4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\Task2(4).AssemblyInfoInputs.cache
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\Task2(4).AssemblyInfo.cs
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\Task2(4).csproj.CoreCompileInputs.cache
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\bin\Debug\net6.0\Task2(4).exe
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\bin\Debug\net6.0\Task2(4).deps.json
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\bin\Debug\net6.0\Task2(4).runtimeconfig.json
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\bin\Debug\net6.0\Task2(4).dll
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\bin\Debug\net6.0\Task2(4).pdb
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\Task2(4).dll
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\refint\Task2(4).dll
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\Task2(4).pdb
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\Task2(4).genruntimeconfig.cache
+C:\Users\linin\OneDrive\Desktop\DZ\Seminar1_dz\Task2(4)\obj\Debug\net6.0\ref\Task2(4).dll
