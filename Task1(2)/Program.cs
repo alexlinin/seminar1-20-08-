@@ -15,7 +15,7 @@ if (number1 > number2)
 }
 else if (number1 < number2)
 {
-    Console.WriteLine("Большее число: " + number2 + ", меньшее число" + number1);    
+    Console.WriteLine("Большее число: " + number2 + ", меньшее число: " + number1);    
 }
 else Console.WriteLine("Введенные числа равны: " + number2 + "=" + number1);
 
